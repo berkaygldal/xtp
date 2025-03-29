@@ -8,7 +8,7 @@ import google.generativeai as genai
 import sv_ttk
 import pywinstyles, sys
 
-genai.configure(api_key="AIzaSyDoNXnwROLrk7zNhee0uhTOctYItONzOHw")
+genai.configure(api_key="NO-FREE-API-KEY-FOR-YOU")
 SetLogLevel(-1)
 
 try:
