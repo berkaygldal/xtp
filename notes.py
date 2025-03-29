@@ -21,7 +21,7 @@ root = tk.Tk()
 root.title("XTPnotes")
 root.geometry("500x475")
 
-root.iconbitmap("notes.ico")
+root.iconbitmap("xtp.ico")
 
 def applyTitleBarTheme(root):
     version = sys.getwindowsversion()
