@@ -1,0 +1,7 @@
+tkinter
+pyttsx3
+vosk
+pyaudio
+google-generativeai
+sv-ttk
+pywinstyles
